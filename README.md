@@ -7,8 +7,9 @@
 - Estilos con CSS (Lo más acercado posible, pueden ser otras imágenes, íconos o colores, pero tiene que ser lo más - cercano que puedas)
 
 ## Depleje de mi clonación
-- Puedes ver mi página [aqui] (https://vikecp.github.io/Vaccination/)
+- Puedes ver mi página [aqui](https://vikecp.github.io/Vaccination/)
 - La página es lo más parecido a la original, con algunos detalles y errores minimos
 - Pd: No es responsiva, me falto esa parte.
 
-- By: Virginia Castañeda Pérez ♡
+
+#### By: Virginia Castañeda Pérez ♡
